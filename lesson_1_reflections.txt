@@ -1,4 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
+It creates an invisible folder that contains the files tracking changes, which is the staging area.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
